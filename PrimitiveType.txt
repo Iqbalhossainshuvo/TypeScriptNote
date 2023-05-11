@@ -1,0 +1,12 @@
+// String
+// number
+// boolean 
+// null 
+// undefined 
+
+// Array[]
+// object{}
+
+// function
+// normal and arrow function
+
