@@ -1,3 +1,5 @@
+<h1>Here are not details you download index.ts file or index.js file</h1>
+<p>You just take here install and question idea</p>
 <p>
 Creat a typescript environment Step by step
 NVM- node version management
