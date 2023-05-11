@@ -1,3 +1,4 @@
+<p>
 Creat a typescript environment Step by step
 NVM- node version management
 ------------------------------------------------------------
@@ -34,22 +35,22 @@ npx ts-node-dev - -respawn ./src/function.ts
 
 Shorthand 
 ------------------------------------------------------------ 
-in your device install nvm software for node version manage
-npm init --y    => node json
-npm install -g typescript    => install typescript
-tsc --init    => for ts json
-npm i nodemon     => install for run your Project by script 
+in your device install nvm software for node version manage,
+npm init --y    => node json,
+npm install -g typescript    => install typescript,
+tsc --init    => for ts json,
+npm i nodemon     => install for run your Project by script ,
 npm i ts-node-dev   => ts file out put quickly use this node pakage
-
+,
 now divide the ts file,  js and ts, 
 at first make a folder name src and for js file make another file dist or somthing .
 go to tsconfig file and uncomment the "rootDir": "./",   and after / put your folder 
 name like "rootDir": "./src", then for javascript file   // "outDir": "./",  uncomment
 outDir and put here javascript folder name like "outDir": "./dist",
 
-now just open terminal and write commend tsc
+now just open terminal and write commend tsc,
 
-and run ts file this commend npx ts-node-dev --respawn src/index.ts
+and run ts file this commend npx ts-node-dev --respawn src/index.ts,
 
 
 
@@ -1132,3 +1133,6 @@ console.log(multiDataInstance);
 5. Can you give an example of how to use enums in TypeScript?
 7. What is the "as" keyword used for in TypeScript?
 10. Can you explain how to use "type guards" with "in" and "typeof" operators in TypeScript?
+
+
+</p>
